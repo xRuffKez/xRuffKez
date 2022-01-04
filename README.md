@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xRuffKez
+- 👀 I’m interested in Lua and Python
+- 🌱 I’m currently learning Lua
